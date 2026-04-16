@@ -18,3 +18,10 @@
 
 7.去除面板日志与网站绑定域名上报
 
+宝塔面板11.x可用一键指令
+
+wget https://github.com/SenkinAdmin/BTpanel-Free/blob/main/BToptimize_11.x.sh && bash BToptimize_11.x.sh
+
+宝塔面板7.x可用一键指令
+
+wget https://github.com/SenkinAdmin/BTpanel-Free/blob/main/BToptimize_7.x.sh && bash BToptimize_7.x.sh
